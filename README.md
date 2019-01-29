@@ -95,7 +95,6 @@ Contents
   + [Practical Machine Learning A New Look at Anomaly Detection.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Practical%20Machine%20Learning%20A%20New%20Look%20at%20Anomaly%20Detection.pdf) 
   + [Practical Machine Learning with H2O.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Python%20Data%20Analytics.pdf) 
   + [Python Data Analytics.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Mastering%20Machine%20Learning%20with%20scikit-learn.pdf) 
-  + [Python Machine Learning By Example.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Python%20Machine%20Learning%20By%20Example.pdf) 
   + [Python Machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Python%20Machine%20Learning.pdf) 
   + [Python Real World Machine Learning - Prateek Joshi.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Python%20Real%20World%20Machine%20Learning%20-%20Prateek%20Joshi.pdf) 
   + [TensorFlow Machine Learning Cookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/TensorFlow%20Machine%20Learning%20Cookbook.pdf) 
